@@ -18,4 +18,5 @@ Apple团队发来的抽中门票的通知邮件：
 ![](images/03-24-2018-02.PNG)  
 
 ### 关于签证
-续更
+我向Apple申请了一封visa letter，Apple速度很快，半天时间就拿到了电子版本的，关于日程安排描写十分详细!
+![](images/visaLetter.JPG)
