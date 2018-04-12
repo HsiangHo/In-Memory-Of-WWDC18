@@ -21,8 +21,9 @@ Apple团队发来的抽中门票的通知邮件：
 我向Apple申请了一封visa letter，Apple速度很快，半天时间就拿到了电子版本的，关于日程安排描写十分详细!
 ![](images/visaLetter.JPG)
 接下来填写[DS160表](https://ceac.state.gov/genniv/)，先吐槽一下这个系统，把Application填写完花了好多时间（在Chrome中😌老是提示超时）。填完之后会有一个Confirmation，把它打印下来！
-
+![](images/DS160.JPG)
 接下来去注册，缴费，预约面签[Apply for U.S. Visa](https://cgifederal.secure.force.com/)。缴费的时候，刚好1024块签证费（难道一切都是巧合），然后成功申请到了4月中旬的面签。【听说成都过签率垫底，为自己祝好！】😊
+<<<<<<< HEAD
 
 时间来到四月十二号，面签准备！![](images/04-12-2018-01.JPG)   
 
@@ -42,3 +43,7 @@ VO在面试的时候全程中文，问了DS160表的部分简单问题。
 续跟。
 
 
+=======
+![](images/Confirmation.JPG)
+续更。
+>>>>>>> 33b438ee13ac2be3282f20207b1bc3a82cb98bd4
